@@ -33,3 +33,9 @@ No new blanket license is applied to third-party assets, datasets, course templa
 ## Topics
 
 python, opencv, digital-image-processing, image-filtering, jupyter-notebook
+
+## Saved result example
+
+[View the original recorded figure and its provenance](results/README.md). The figure was extracted from the supplied notebook; it was not regenerated during this audit.
+
+![Original notebook result](results/figure-01.png)
